@@ -13,11 +13,11 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/flushprob`,
 
-    EMail: `mailto:flushprob@gmail.com`,
     // Optional: LinkedIn account URL
     // linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Currently studying Computer Engineering at Hanbat National University.`,
+    about: `Currently studying Computer Engineering at Hanbat National University.\n
+    flushprob AT gmail.com`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
