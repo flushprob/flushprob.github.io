@@ -27,13 +27,13 @@ module.exports = {
       {
         name: 'Zikgucal',
         description:
-          'Simple Project 2020, Using Java to make simple caculator for expense of oversea shopping',
+          'Simple Project March 2020, Using Java to make simple caculator for expense of oversea shopping',
         link: 'https://github.com/flushprob/zikgucal',
       },
       {
         name: 'Showerbooth for socially underprivileged',
         description:
-          'PROBONO ICT Project 2019, Keep safe while taking shower, if had accident, contact to guardian immediately',
+          'PROBONO ICT Project, March 2019 - November 2019, Keep safe while taking shower, if detect accident, contact to guardian immediately',
         link: 'https://github.com/flushprob/showerbooth_2019',
       },
     ],
