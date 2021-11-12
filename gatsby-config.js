@@ -42,10 +42,12 @@ module.exports = {
       {
         name: 'Hanbat National University - Computer Engineering',
         description: 'Student, March 2020 - February 2022',
+        link: '',
       },
       {
         name: 'Korea Polytechnic Daejeon - Information & Communication System',
         description: 'Student, March 2016 - February 2020',
+        link: '',
       }
     ],
     // Optional: List your skills, they must have `name` and `description`.
