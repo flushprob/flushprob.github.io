@@ -19,13 +19,13 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'face blurring webApp',
+        name: 'Face blurring webApp',
         description:
           'Capstone Design 2021, Using caffe and mediapipe to blurring faces',
         link: 'https://github.com/flushprob/faceblur_web',
       },
       {
-        name: 'zikgucal',
+        name: 'Zikgucal',
         description:
           'Simple Project 2020, Using Java to make simple caculator for expense of oversea shopping',
         link: 'https://github.com/flushprob/zikgucal',
@@ -74,10 +74,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+      // resolve: `gatsby-source-filesystem`,
+      // options: {
+      //   path: `${__dirname}/content/blog`,
+      //   name: `blog`,
       },
     },
     {
