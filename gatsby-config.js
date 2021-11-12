@@ -34,7 +34,7 @@ module.exports = {
       {
         name: 'Showerbooth for socially underprivileged',
         description:
-          'PROBONO ICT Project, March 2019 - November 2019, Keep safe while taking shower, if detect accident, contact to guardian immediately',
+          'ICT PROBONO Project, March 2019 - November 2019, Keep safe while taking shower, if detect accident, contact to guardian immediately',
         link: 'https://github.com/flushprob/showerbooth_2019',
       },
     ],
