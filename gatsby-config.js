@@ -16,8 +16,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     // linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Currently studying Computer Engineering at Hanbat National University.\n
-    flushprob AT gmail.com`,
+    about: `Currently studying Computer Engineering at Hanbat National University.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
